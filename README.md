@@ -1,4 +1,4 @@
 # Repositorio PHP
 ## Começo da jornada
 
-![PHP](php.png)
+![PHP](imgs/php.png)
