@@ -15,5 +15,13 @@
 		echo "$nome tem $idade anos" ;
 		echo "</br>";
 	?>
+	</br>
+	</br>
+	<?php 
+	$num = 5;
+	$num2 = 3;
+	$soma = $num + $num2;
+	echo "soma igua a $soma";
+	?>
 </body>
 </html>
