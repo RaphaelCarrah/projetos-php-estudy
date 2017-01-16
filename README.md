@@ -4,6 +4,11 @@
 ![PHP](imgs/php.png)
 
 
-#### - helloword.php meu "meu primeiro programa" :)
-#### - variaveis.php aprendendo o funcionamento das variaveis
-#### - imprimindo-dados.php aprendendo a imprimir dados
+####helloword.php 
+- meu "primeiro programa" :)
+
+####variaveis.php 
+- Aprendendo o funcionamento das variaveis
+
+####imprimindo-dados.php 
+- Aprendendo a imprimir dados
