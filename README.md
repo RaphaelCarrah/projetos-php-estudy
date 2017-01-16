@@ -12,3 +12,6 @@
 
 ####imprimindo-dados.php 
 - Aprendendo a imprimir dados
+
+####operadores-aritméticos.php 
+- Aprendendo sobre operadores no PHP
