@@ -20,4 +20,4 @@
 - Atribuições em PHP
 
 ####operadoresTernarios.php :white_check_mark:
-- "trabaiano" com operadore
+- "trabaiano" com operadores
