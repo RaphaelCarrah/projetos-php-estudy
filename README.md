@@ -4,17 +4,20 @@
 ![PHP](imgs/php.png)
 
 
-####helloword.php 
-- meu "primeiro programa" :)
+####helloword.php  :white_check_mark:
+- Meu "primeiro programa" :)
 
 ####variaveis.php 
 - Aprendendo o funcionamento das variaveis
 
-####imprimindo-dados.php 
+####imprimindo-dados.php  :white_check_mark:
 - Aprendendo a imprimir dados
 
-####operadores-aritméticos.php 
+####operadores-aritméticos.php  :white_check_mark:
 - Aprendendo sobre operadores no PHP
 
-####atribuições.php
+####atribuições.php :white_check_mark:
 - Atribuições em PHP
+
+####operadoresTernarios.php :white_check_mark:
+- "trabaiano" com operadore
