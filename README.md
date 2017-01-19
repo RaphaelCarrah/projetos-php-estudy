@@ -21,3 +21,6 @@
 
 ####operadoresTernarios.php :white_check_mark:
 - "trabaiano" com operadores
+
+####integracao-html.php :white_check_mark:
+- "Utilizando formularios para "pegar dados" PHP.
