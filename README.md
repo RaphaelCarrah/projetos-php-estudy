@@ -1,4 +1,4 @@
-# Repositorio de estudo PHP
+# Repositório de estudo PHP
 ## Começo da jornada
 
 ![PHP](imgs/php.png)
