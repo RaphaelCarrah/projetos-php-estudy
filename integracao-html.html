@@ -2,17 +2,23 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Form- tira média</title>
+	<title>Form - tira média</title>
 </head>
+<link rel="stylesheet" href="css/main.css">
 <body>
+<div class="container">
+	<h1>Calcule sua média</h1>
 	<form method="get" action="php/dados.php">
+		<div class="nota">
+		<h3>Nota 1</h3><input class="entrada" type="text" autocomplete="off"  name="nota1"/>
+		<h3>Nota 2</h3><input class="entrada" type="text" autocomplete="off"  name="nota2"/>
+		<h3>Nota 3</h3><input class="entrada" type="text" autocomplete="off"  name="nota3"/>
+		</div>
 		
-		Nota 1 :<input type="text" name="nota1"/>
-		Nota 2 :<input type="text" name="nota2"/>
-		Nota 3 :<input type="text" name="nota3">
 
-		<input type="submit" value="Calcular">
+		<input class="btn" type="submit" value="Calcular">
 	</form>
+</div>
 	
 </body>
 </html>
