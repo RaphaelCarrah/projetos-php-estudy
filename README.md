@@ -24,3 +24,6 @@
 
 ####integracao-html.php :white_check_mark:
 - "Utilizando formularios para "pegar dados" PHP.
+
+####estrutura-if.php :white_check_mark:
+- "Apredendo funcionamento da estrutura IF.
